@@ -5,7 +5,7 @@
 элементы с помощью JavaScript.
 
 ## Демо
-(Ссылка на проект)[https://github.com]
+[Ссылка на проект](https://artbiryukov.github.io/big_theater/)
 
 ## Технологии
 <ul>
